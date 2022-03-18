@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url("backgrounds/Background (12).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-weight: 400;
+}
+
+.main h2{  
+    position: relative;
+    top: 60px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 1px 15px 1px 15px;
+    
+}
+
+.main a{
+    text-decoration: none;
+}
+
+.body p{  
+    position: relative;
+    top: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 1px 15px 1px 15px;
+    
+}
+.continue a{
+    position: relative;
+    top: 400px;
+    float: right;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    padding: 1px 30px 1px 1px;
+}

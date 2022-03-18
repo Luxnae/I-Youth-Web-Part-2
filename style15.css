@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url("backgrounds/Background (15).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-weight: 400;
+}
+
+.main h1{  
+    position: relative;
+    top: 300px;
+    text-align: center;
+    font-size: 56px;
+    color: white;
+    padding: 1px 15px 1px 1px;
+    
+}
+
+.main a{
+    text-decoration: none;
+}
+
+div .Play p{
+    position: relative;
+    top: 325px;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    font-weight: 100;
+}
+
+div .Chapter a{
+    position: relative;
+    top: 500px;
+    left: 50px;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    font-weight: 100;
+}
+
+div .Setting a{
+    position: relative;
+    top: 500px;
+    left: 50px;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
