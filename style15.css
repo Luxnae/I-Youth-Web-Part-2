@@ -14,7 +14,7 @@
 
 .main h1{  
     position: relative;
-    top: 300px;
+    top: 175px;
     text-align: center;
     font-size: 56px;
     color: white;
@@ -28,7 +28,7 @@
 
 div .Play p{
     position: relative;
-    top: 325px;
+    top: 190px;
     text-align: center;
     font-size: 48px;
     color: white;
@@ -37,7 +37,7 @@ div .Play p{
 
 div .Chapter a{
     position: relative;
-    top: 500px;
+    top: 250px;
     left: 50px;
     text-align: center;
     font-size: 48px;
@@ -47,7 +47,7 @@ div .Chapter a{
 
 div .Setting a{
     position: relative;
-    top: 500px;
+    top: 250px;
     left: 50px;
     text-align: center;
     font-size: 48px;

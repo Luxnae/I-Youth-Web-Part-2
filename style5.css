@@ -14,9 +14,9 @@
 
 .main p{  
     position: relative;
-    top: 250px;
+    top: 130px;
     text-align: center;
-    font-size: 50px;
+    font-size: 48px;
     color: white;
     padding: 1px 15px 1px 15px;
     
@@ -28,7 +28,7 @@
 
 .continue a{
     position: relative;
-    top: 500px;
+    top: 225px;
     float: right;
     text-align: center;
     font-size: 48px;

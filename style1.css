@@ -14,9 +14,10 @@
 
 .main p{  
     position: relative;
-    top: 250px;
+    font-weight: bolder;
+    top: 125px;
     text-align: center;
-    font-size: 50px;
+    font-size: 48px;
     color: white;
     padding: 1px 15px 1px 15px;
     
@@ -27,8 +28,9 @@
 }
 
 .continue a{
+    font-weight: bolder;
     position: relative;
-    top: 500px;
+    top: 175px;
     float: right;
     text-align: center;
     font-size: 48px;

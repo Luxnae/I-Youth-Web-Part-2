@@ -16,9 +16,9 @@
     position: relative;
     top: 50px;
     float: right;
-    right: 2%;
+    right: 1%;
     text-align: center;
-    font-size: 64px;
+    font-size: 48px;
     color: white;
     padding: 1px 15px 1px 15px;
 }
@@ -27,9 +27,9 @@
     position: relative;
     top: 190px;
     float: right;
-    left: 32%;
+    left: 36%;
     text-align: center;
-    font-size: 48px;
+    font-size: 36px;
     color: white;
 }
 
@@ -40,8 +40,8 @@
 .continue a{
     position: relative;
     float: right;
-    top: 800px;
-    left: 65%;
+    top: 500px;
+    left: 60%;
     text-align: center;
     font-size: 48px;
     color: white;
